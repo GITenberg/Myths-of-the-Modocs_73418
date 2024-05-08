@@ -5,6 +5,9 @@ contributor:
     agent_name: Curtin, M. A.
     gutenberg_agent_id: '57051'
     url: http://www.gutenberg.org/2009/agents/57051
+covers:
+- cover_type: archival
+  image_path: 73418-h/images/frontcover.jpg
 creator:
   author:
     agent_name: Curtin, Jeremiah
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1053
     wikipedia: https://en.wikipedia.org/wiki/Jeremiah_Curtin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73418#Myths-of-the-Modocs
 gutenberg_issued: '2024-04-17'
 gutenberg_type: Text
 identifiers:
